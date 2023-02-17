@@ -6,7 +6,9 @@ This is a classic game developed in Python. The game is played on a 2D grid, whe
 # Game Features
 
 Simple and intuitive gameplay
+
 Randomly generated food positions
+
 Score tracking and high score leaderboard
 
 # How to Play
