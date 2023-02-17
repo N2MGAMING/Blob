@@ -3,7 +3,7 @@
 
 This is a classic game developed in Python. The game is played on a 2D grid, where the player controls a Blob(Black square) that moves around the grid and eats food to increase the score. The game is over when the Blob hits a wall.
 
-# Game Features
+# Game Features
 
 Simple and intuitive gameplay
 Randomly generated food positions
